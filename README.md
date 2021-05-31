@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋⚛️
 
+💁‍♂️ A person who love visual design. Passionate frontend and UI/UX.
 <!--
 **syaifulhuseinnn/syaifulhuseinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
