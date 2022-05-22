@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-💁‍♂️ A person who love visual design. Passionate about frontend web dev and UI/UX.
+💁‍♂️ I'm a person who love visual design and passionate about frontend web dev and UI/UX.
 
-- 🔭 I'm currently working on Mitrais
-- 🌱 I'm currently learning NEXT JS, TypeScript, GraphQL, and iOS development
+- 🔭 I'm currently working on Payright
+- 🌱 I'm currently upgrading my skills in NEXT JS, TypeScript, GraphQL, and iOS development
 - 📫 How to reach me: [✉️ syaifulhuseinnn@gmail.com](mailto:syaifulhuseinnn@gmail.com)
 <!--
 **syaifulhuseinnn/syaifulhuseinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
